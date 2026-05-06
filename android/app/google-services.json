@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "991699212916",
+    "project_id": "madexam-50661",
+    "storage_bucket": "madexam-50661.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991699212916:android:bf4cdd7b6fdbab4ed2cf21",
+        "android_client_info": {
+          "package_name": "app.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVuQLPnij_exAMFapGTX9m1d5nh8snxT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991699212916:android:020227b1d11c1655d2cf21",
+        "android_client_info": {
+          "package_name": "com.example.mad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVuQLPnij_exAMFapGTX9m1d5nh8snxT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
